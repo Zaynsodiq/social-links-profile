@@ -77,3 +77,8 @@ ul{
     transform: scale(1.03);
   }
 
+@media (max-width:475px){
+    .buttons-container ul li a{
+     color: gold;
+    }
+}
